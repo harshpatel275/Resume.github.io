@@ -227,8 +227,9 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: url(./img/hero-bg.png);
-	background-size: cover;
+	background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3daa3d2c-5dd8-4f93-8c52-e9b0e7e3d535/d3l15o6-abbd4232-a9ed-4f95-9408-dbf0166c3df7.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNkYWEzZDJjLTVkZDgtNGY5My04YzUyLWU5YjBlN2UzZDUzNVwvZDNsMTVvNi1hYmJkNDIzMi1hOWVkLTRmOTUtOTQwOC1kYmYwMTY2YzNkZjcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.PeYTKAZXulOMdib9E6K6gdFvkausRCTA-8RXHJE23NU);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
 	background-position: top center;
 	position: relative;
 	z-index: 1;
